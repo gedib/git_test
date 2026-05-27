@@ -1,4 +1,5 @@
 # git_test
 
 Hello Odin!
-My name is gediyon belay
+My name is Gediyon Belay
+Nice to meet you folks
